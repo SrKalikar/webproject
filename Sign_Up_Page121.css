@@ -1,0 +1,56 @@
+.signup121{
+margin-left:370px;
+margin-top:100px;
+width:550px;
+font-family:verdana;
+border:2px solid grey;
+border-radius:15px;
+border-spacing:200px;
+padding:20px;
+
+}
+#w11{margin-left:5px; margin-bottom:40px;margin-top:0px;border-bottom:6px solid red;background-color:lightgrey; font-size:50px;}
+#w12{margin-left:80px;}
+#w13{margin-left:65px;}
+#w14{margin-left:85px;}
+#w15{margin-left:60px;}
+#w16{margin-left:110px;}
+#w17{margin-left:30px;}
+#w18{margin-left:70px;}
+
+#w19 {
+ transition-property:height;
+  transition-duration:1s;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: grey;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 12px;
+  padding: 5px;
+  width: 50px;
+  height:30px;
+  cursor: pointer;
+  margin: 5px;
+  margin-left:200px;
+  font-family:courier;
+} 
+
+#w20{ transition-property:height;
+  transition-duration:1s;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: grey;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 12px;
+  padding: 5px;
+  width: 50px;
+  height:30px;
+  cursor: pointer;
+  margin: 5px;
+  font-family:courier;
+  
+  }

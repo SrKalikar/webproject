@@ -1,0 +1,3 @@
+optimization problems by reducing grammer
+
+first find if there is any useless symbol
